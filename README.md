@@ -1,6 +1,8 @@
 # Data-Analytics
 A compilation of projects focused on data analytics based on Google Data Analytics Certificate course and Udemy
 
+Note: To look into the process and vizualizations click on the desired project above.
+
 
 # Google - Case Studies
 
